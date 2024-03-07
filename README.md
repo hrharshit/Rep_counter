@@ -43,7 +43,7 @@ This project draws inspiration from the AI and computer vision technologies prov
 
 Contributions to the project are welcome! If you encounter any issues or have ideas for improvements, please submit a pull request or open an issue on the GitHub repository.
 
-Author: Durgaprasad Sahoo - www.github.com/durgaprasad-sahoo/
+Author: Harshit Raj - www.github.com/hrharshit/
 
 References:
 
